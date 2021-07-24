@@ -1,4 +1,6 @@
 This is from local.
 I am inserting a new line.
 This is from remote.
-After changes, I will pull it and then push it again
+This is from Sa'idah.
+After conflict
+I am adding new line..  thendral123
